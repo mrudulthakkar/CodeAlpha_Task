@@ -1,0 +1,11 @@
+The stock details are:
+reliance : 1380
+asian paints : 2570
+wipro : 259
+infosys : 1500
+ola : 45
+tcs : 3015
+-------------------
+User Stock Details:
+Your total investment = ₹0
+THANK YOU
